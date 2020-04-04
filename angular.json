@@ -140,5 +140,8 @@
       }
     }
   },
-  "defaultProject": "meister-chef"
+  "defaultProject": "meister-chef",
+  "cli": {
+    "analytics": false
+  }
 }
